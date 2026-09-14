@@ -1,3 +1,6 @@
+# Tarea Semana 13 - crear una función basada en un problema de la vida real
+# Autor: Freire Shiguango Michael Daniel
+
 def calcular_total(precio, cantidad):
     total = precio * cantidad
     return total
